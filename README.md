@@ -1,4 +1,4 @@
-![MasterHead](https://ccs.neu.edu/~mali/muali_files/nu_cropped.png)
+![MasterHead](https://campusmap.northeastern.edu/images/main-site-header.gif)
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">Data science Grad @Northeastern University, Boston</h3>
 <img align = "right" alt = "coding" width="400" src = "https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif">
