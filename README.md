@@ -1,13 +1,15 @@
 ![MasterHead](https://campusmap.northeastern.edu/images/main-site-header.gif)
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h3 align="center">Data Science Grad @Northeastern University, Boston</h3>
+<h3 align="center">Data science Grad @Northeastern University, Boston</h3>
 <img align = "right" alt = "coding" width="400" src = "https://media.tenor.com/eAfSjEYYmQIAAAAC/naruto-uzumaki.gif">
 
-- 🌱 I’m currently learning **Self-Supervised Machine Learning**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iammoy&label=Profile%20views&color=0e75b6&style=flat" alt="iammoy" /> </p>
+
+- 🌱 I’m currently learning **Self Supervised Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://iammoy.github.io/](https://iammoy.github.io/)
 
-- 💬 Ask me about **Anything related to Computer Science**
+- 💬 Ask me about **Anything related to Computer Science or Science**
 
 - 📫 How to reach me **singh.aditya2@northeastern.edu**
 
@@ -28,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iammoy&show_icons=true&locale=en" alt="iammoy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iammoy&" alt="iammoy" /></p>
+
