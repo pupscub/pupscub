@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **singh.aditya2@northeastern.edu**
 
-- 📄 Know about my experiences [https://tinyurl.com/bdhey9r3](https://tinyurl.com/bdhey9r3)
+- 📄 Know about my experiences [https://tinyurl.com/bdhey9r3](https://drive.google.com/file/d/1qJBLOeJgw6FM2JTG-7OaBfpTuLbykETm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
