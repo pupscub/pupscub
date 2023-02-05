@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Self Supervised Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://iammoy.github.io/](https://iammoy.github.io/)
+- 👨‍💻 Some of my projects are available at [ePortfolio](https://iammoy.github.io/)
 
 - 💬 Ask me about **Anything related to Computer Science or Science**
 
 - 📫 How to reach me **singh.aditya2@northeastern.edu**
 
-- 📄 Know about my experiences [https://tinyurl.com/bdhey9r3](https://drive.google.com/file/d/1qJBLOeJgw6FM2JTG-7OaBfpTuLbykETm/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qJBLOeJgw6FM2JTG-7OaBfpTuLbykETm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
