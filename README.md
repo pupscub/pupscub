@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammoy&label=Profile%20views&color=0e75b6&style=flat" alt="iammoy" /> </p>
 
-- 🌱 I’m currently learning **Self Supervised Machine Learning**
+- 🌱 I’m currently learning **Self Supervised Machine Learning & Generative AI**
 
 - 👨‍💻 Some of my projects are available at [ePortfolio](https://iammoy.github.io/)
 
