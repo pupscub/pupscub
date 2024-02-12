@@ -9,7 +9,7 @@
 
 - 👨‍💻 Some of my projects are available at [ePortfolio](https://iammoy.github.io/)
 
-- 💬 Ask me about **Anything related to Computer Science or Science**
+- 💬 Ask me about **Anything related to Data Science**
 
 - 📫 How to reach me **singh.aditya2@northeastern.edu**
 
