@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **singh.aditya2@northeastern.edu**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qJBLOeJgw6FM2JTG-7OaBfpTuLbykETm/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zW90ul3y3DAngF0_ZVVvDzRXNCkztuaY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
