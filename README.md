@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Self Supervised Machine Learning & Generative AI**
 
-- 👨‍💻 Some of my projects are available at [ePortfolio](https://iammoy.github.io/)
+- 👨‍💻 Some of my projects are available at [ePortfolio](https://www.adityawork.com)
 
 - 💬 Ask me about **Anything related to Data Science**
 
