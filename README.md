@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GenAI**
 
-- 👨‍💻 Some of my projects are available at [WEBSITE:adityawork.com](https://www.adityawork.com)
+- 👨‍💻 Some of my projects are available at my website [adityawork.com](https://www.adityawork.com)
 
 - 💬 Ask me about **Anything related to Data Science**
 
