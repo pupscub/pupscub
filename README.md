@@ -1,6 +1,6 @@
 ![MasterHead](https://campusmap.northeastern.edu/images/main-site-header.gif)
-<h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h3 align="center">Data science Grad @Northeastern University, Boston</h3>
+<h1 align="center">Aditya Singh</h1>
+<h3 align="center">Data Science Grad @Northeastern University, Boston</h3>
 <!-- <img align = "right" alt = "coding" width="400" src = "https://media.tenor.com/eAfSjEYYmQIAAAAC/naruto-uzumaki.gif"> -->
 
 
