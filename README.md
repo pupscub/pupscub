@@ -1,7 +1,10 @@
 ![MasterHead](https://campusmap.northeastern.edu/images/main-site-header.gif)
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">Data science Grad @Northeastern University, Boston</h3>
-<img align = "right" alt = "coding" width="400" src = "https://media.tenor.com/eAfSjEYYmQIAAAAC/naruto-uzumaki.gif">
+<!-- <img align = "right" alt = "coding" width="400" src = "https://media.tenor.com/eAfSjEYYmQIAAAAC/naruto-uzumaki.gif"> -->
+
+
+<img align = "right" alt = "coding" width="400" src = "https://gifer.com/embed/NvL">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammoy&label=Profile%20views&color=0e75b6&style=flat" alt="iammoy" /> </p>
 
