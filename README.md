@@ -4,7 +4,7 @@
 <!-- <img align = "right" alt = "coding" width="400" src = "https://media.tenor.com/eAfSjEYYmQIAAAAC/naruto-uzumaki.gif"> -->
 
 
-<img align = "right" alt = "coding" width="400" src = "https://gifer.com/embed/NvL">
+<img align = "right" alt = "coding" width="400" src = "https://i.gifer.com/NvL.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammoy&label=Profile%20views&color=0e75b6&style=flat" alt="iammoy" /> </p>
 
