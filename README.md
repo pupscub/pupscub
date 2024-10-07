@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammoy&label=Profile%20views&color=0e75b6&style=flat" alt="iammoy" /> </p>
 
-- 🌱 I’m currently learning **Self Supervised Machine Learning & Generative AI**
+- 🌱 I’m currently learning **GenAI**
 
-- 👨‍💻 Some of my projects are available at [ePortfolio](https://www.adityawork.com)
+- 👨‍💻 Some of my projects are available at [WEBSITE:adityawork.com](https://www.adityawork.com)
 
 - 💬 Ask me about **Anything related to Data Science**
 
